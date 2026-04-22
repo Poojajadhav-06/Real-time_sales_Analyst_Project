@@ -96,10 +96,10 @@ Python Scheduler
 ✅ Scalable architecture for real-world datasets
 
 🧑‍💻 Author
-👋 sanika jadhav
+👋 pooja jadhav
 🎓 Data Analyst | Python Developer | Instructor
  
-📧 sanikajadhav5105@gmail.com
+📧 pj01082005@gmail.com
 
 🌟 Contributing
 Pull requests are welcome!
